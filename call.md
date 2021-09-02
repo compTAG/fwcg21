@@ -21,6 +21,7 @@ with the submission if the work has already been presented/accepted elsewhere.
 
 ## Program Committee
 
+- [Sergey Bereg](https://personal.utdallas.edu/~besp/), University of Texas - Dallas
 - [Brittany Terese Fasy](https://www.cs.montana.edu/brittany/), Montana State University
 - [David L. Millman](https://www.cs.montana.edu/david.millman/mySite/index.html), Montana State University
 - [Joseph S.B. Mitchell](http://www.ams.sunysb.edu/~jsbm/jsbm.html), SUNY Stony Brook
