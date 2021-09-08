@@ -16,7 +16,7 @@ with the submission if the work has already been presented/accepted elsewhere.
 | Notification                          | Wednesday, October 6, 2021            |
 | Final version 	                    | TBD                                   |
 | Registration (no fee, for planning) 	| TBD                                   |
-| Workshop 	                            | Friday-Saturday, November 9-10, 2012  |
+| Workshop 	                            | Friday-Saturday, October 15-16, 2021  |
 |---------------------------------------|---------------------------------------|
 
 ## Program Committee
