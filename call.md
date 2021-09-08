@@ -35,4 +35,5 @@ with the submission if the work has already been presented/accepted elsewhere.
 - [Brittany Terese Fasy](https://www.cs.montana.edu/brittany/), Montana State University
 - [David L. Millman](https://www.cs.montana.edu/david.millman/mySite/index.html), Montana State University
 - [Binhai Zhu](https://www.cs.montana.edu/bhz/), Montana State University
+- Anna Schenfisch, PhD Student, Montana State University
 - **TODO** Add additional MSU students that are helping with organization
