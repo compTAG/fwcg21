@@ -1,6 +1,6 @@
 Authors are invited to submit abstracts (up to 4 pages, in any reasonable
 1-column format) for contributed talks to be given at the workshop. Submission
-is via easychair (**Link TBA**).
+is via [easychair](https://easychair.org/conferences/?conf=fwcg2021).
 
 We encourage submissions of full paper drafts (if available) along with the
 abstract. Because there are no formal proceedings for the workshop, submission
