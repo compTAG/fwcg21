@@ -13,10 +13,10 @@ with the submission if the work has already been presented/accepted elsewhere.
 
 | Action                                | Date
 |---------------------------------------|---------------------------------------|
-| Submission	                        | Thursday September 30, 2021 (AOE)          |
+| Submission	                        | Thursday September 30, 2021 (AOE)     |
 | Notification                          | Wednesday, October 6, 2021            |
-| Final version 	                    | Tuesday, October 12, 2021                                 |
-| Registration (no fee, for planning) 	| Tuesday, October 12, 2021                                   |
+| Final version 	                    | Tuesday, October 12, 2021             |
+| Registration (no fee, for planning) 	| Tuesday, October 12, 2021             |
 | Workshop 	                            | Friday-Saturday, October 15-16, 2021  |
 |---------------------------------------|---------------------------------------|
 
