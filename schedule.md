@@ -1,5 +1,7 @@
 # Friday Oct, 15
 
+Times are in Mountain Daylight Time (MDT)
+
 | Time | Title                                                                                                                  | Authors                                                                                                                   |
 |------|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 |09:00 | Topological Graph Neural Networks                                                                                      | Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck and Karsten Borgwardt                               |
@@ -14,9 +16,9 @@
 |11:40 | Reverse Shortest Path Problem in Weighted Unit-Disk Graphs                                                             | Haitao Wang and Yiming Zhao                                                                                               |
 |12:00 | Lunch Break                                                                                                            |                                                                                                                           |
 |      |                                                                                                                        |                                                                                                                           |
-|10:00 | The Two-Squirrel Problem and Its Relatives                                                                             | Sergey Bereg, Manuel Lafond and Binhai Zhu                                                                                |
+|13:00 | The Two-Squirrel Problem and Its Relatives                                                                             | Sergey Bereg, Manuel Lafond and Binhai Zhu                                                                                |
 |13:20 | Sweeping Polygons with a Variable-Length Line Segment                                                                  | Kien Huynh and Joseph Mitchell                                                                                            |
-|11:40 | Low Dimensional Spaces of Persistence Diagrams                                                                         | Don Sheehy and Siddharth Sheth                                                                                            |
+|13:40 | Low Dimensional Spaces of Persistence Diagrams                                                                         | Don Sheehy and Siddharth Sheth                                                                                            |
 |14:00 | Cookie Break                                                                                                           |                                                                                                                           |
 |      |                                                                                                                        |                                                                                                                           |
 |14:15 | Business Meeting                                                                                                       |                                                                                                                           |
