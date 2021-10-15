@@ -11,7 +11,7 @@
 * Elsevier [Computational Geometry: Theory and Applications (CGTA)](https://www.journals.elsevier.com/computational-geometry)
 * [Springer APCT](https://www.springer.com/journal/41468)
 * TheoretiCS - another new diamond open-access journal spanning all of theoretical CS.
-* 
+* [Journal of Computational Geometry](https://jocg.org/index.php/jocg)
 
 ## Hiring
 
