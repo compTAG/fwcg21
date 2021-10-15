@@ -20,7 +20,7 @@
 * The Dept of CMSE at Michigan State University will likely be hiring at the Assistant Professor level this year.  More information will be posted once the position is official.  Questions in the meantime can be directed to Liz Munch <muncheli@msu.edu>.
 * Tulane University invites applications for faculty positions: The Yahoo! Founder Chair (in data science, broadly understood), assistant professor (in systems and data intensive computing), and a professor of practice. https://sse.tulane.edu/cs/open-positions
 * NC State hiring in theoretical Computer science.  Email Don Sheehy <don.r.sheehy@gmail.com>.
-* The Oregon State University Mathematics Department is hiring in applied topology or topological data analysis.
+* The Oregon State University Mathematics Department is hiring in applied topology or topological data analysis. Application is via [MathJobs](https://www.mathjobs.org/jobs/list/18088).
 
 ### Postdocs
 
@@ -37,4 +37,6 @@
 
 1. If you recently taught a comp geo/top class, please add it to the website:
 [Classes](https://comptag.github.io/teaching-compGT/) or contact David Millman or Joe Mitchell.
-2. To add content to this page, please contact Jordan Schupbach <jordan.schupbach@montana.edu>.
+2. Next year's fall workshop will likely be in Research Triangle Park in North Carolina. Portential organizers: Pankaj Agarwal (Duke), Don Sheehy (NC State), and Jack Snoeyink (UNC).
+3. If you are interested in hosting a future offering of FWCG, please contact Joe Mitchell.
+4. To add content to this page, please contact Jordan Schupbach <jordan.schupbach@montana.edu>.
