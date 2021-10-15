@@ -16,6 +16,8 @@
 
 * The Dept of CMSE at Michigan State University will likely be hiring at the Assistant Professor level this year.  More information will be posted once the position is official.  Questions in the meantime can be directed to Liz Munch <muncheli@msu.edu>.
 * Tulane University invites applications for faculty positions: The Yahoo! Founder Chair (in data science, broadly understood), assistant professor (in systems and data intensive computing), and a professor of practice. https://sse.tulane.edu/cs/open-positions
+* NC State is looking to hire theoretical computer scientists.  If interested, feel free to email Don Sheehy at [don.r.sheehy@gmail.com](mailto:don.r.sheehy@gmail.com).
+
 
 ### Postdocs
 
@@ -26,3 +28,4 @@
 
 1. If you recently taught a comp geo/top class, please add it to the website:
 [Classes](https://comptag.github.io/teaching-compGT/) or contact David Millman.
+
