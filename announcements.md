@@ -14,6 +14,7 @@
 
 ### Faculty Positions
 
+* The Dept of CMSE at Michigan State University will likely be hiring at the Assistant Professor level this year.  More information will be posted once the position is official.  Questions in the meantime can be directed to Liz Munch <muncheli@msu.edu>.
 * Tulane University invites applications for faculty positions: The Yahoo! Founder Chair (in data science, broadly understood), assistant professor (in systems and data intensive computing), and a professor of practice. https://sse.tulane.edu/cs/open-positions
 
 ### Postdocs
