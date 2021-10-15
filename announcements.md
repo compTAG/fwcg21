@@ -36,5 +36,5 @@
 ## Other
 
 1. If you recently taught a comp geo/top class, please add it to the website:
-[Classes](https://comptag.github.io/teaching-compGT/) or contact David Millman.
+[Classes](https://comptag.github.io/teaching-compGT/) or contact David Millman or Joe Mitchell.
 2. To add content to this page, please contact Jordan Schupbach <jordan.schupbach@montana.edu>.
