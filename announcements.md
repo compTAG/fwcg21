@@ -10,7 +10,7 @@
 * [Springer APCT](https://www.springer.com/journal/41468)
 * [Computing in Geometry and Topology](https://www.cgt-journal.org/index.php/cgt/login?source=%2Findex.php%2Fcgt) - a new journal!
 
-## Hiring:
+## Hiring
 
 ### Faculty Positions
 
