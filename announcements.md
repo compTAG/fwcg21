@@ -21,7 +21,13 @@
 ### Postdocs
 
 * [Colorado State University Department of Mathematics](https://www.mathjobs.org/jobs/list/18456)
+* Bastian Reick at HelmholtzZentrum München is hiring a postdoc, with an appoint of up to four years.  For more information, contact Bastian Rieck <bastian.rieck@helmholtz-muenchen.de>.
 * The [CompTaG](https://www.cs.montana.edu/comptag/index.html) research group at Montana State University (School of Computing & Department of Mathematical Sciences) is hiring a postdoc to start in 2022: https://montana.qualtrics.com/jfe/form/SV_03wF1MSY4Y0T2Sh
+
+### PhD Students Wanted
+
+* HelmholtzZentrum München is looking for PhD Students interested in studying [geometrical and topological machine learning](https://jobs.helmholtz-muenchen.de/jobposting/ce3f12af95ab3f6c3d7f551b5333e138c7cc4cad0?ref=homepage).  For more information, contact Bastian Rieck <bastian.rieck@helmholtz-muenchen.de>.
+* [CompTaG](https://www.cs.montana.edu/comptag/index.html) at Montana State University in both [computer science](https://math.montana.edu/grad_students/phd_math.html) and  [mathematics](https://www.cs.montana.edu/future-students-phd.html).
 
 ## Other
 
