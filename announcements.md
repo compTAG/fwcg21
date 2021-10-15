@@ -10,6 +10,7 @@
 * [Computing in Geometry and Topology](https://www.cgt-journal.org/index.php/cgt/login?source=%2Findex.php%2Fcgt) - a new diamond open-access journal!  Survey articles are specifically solicited. Please reach out to [Joe Mitchell](https://www.stonybrook.edu/commcms/ams/people/_faculty_profiles/mitchell.php).
 * Elsevier [Computational Geometry: Theory and Applications (CGTA)](https://www.journals.elsevier.com/computational-geometry)
 * [Springer APCT](https://www.springer.com/journal/41468)
+* TheoretiCS - another new diamond open-access journal spanning all of theoretical CS.
 
 ## Hiring
 
