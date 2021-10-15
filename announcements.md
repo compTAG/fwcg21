@@ -5,7 +5,7 @@
 * [Women in Computational Topology (WinCompTop)](https://awmadvance.org/research-networks/wincomptop-women-in-computational-topology/) To join the listserv, send an emial to WinCompTop+subscribe@googlegroups.com.
 * [compgeom-announce](https://sympa.inria.fr/sympa/info/compgeom-announce).  See the linked website for how to subscribe.
 
-## Relevant (and New) Journals:
+## Relevant (and New) Journals
 
 * [Springer APCT](https://www.springer.com/journal/41468)
 * [Computing in Geometry and Topology](https://www.cgt-journal.org/index.php/cgt/login?source=%2Findex.php%2Fcgt) - a new journal!
