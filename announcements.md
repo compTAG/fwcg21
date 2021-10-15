@@ -18,7 +18,8 @@
 
 ### Postdocs
 
-* The [CompTaG](https://www.cs.montana.edu/comptag/index.html) research group at Montana State University is hiring a postdoc to start in 2022: https://montana.qualtrics.com/jfe/form/SV_03wF1MSY4Y0T2Sh
+* [Colorado State University Department of Mathematics](https://www.mathjobs.org/jobs/list/18456)
+* The [CompTaG](https://www.cs.montana.edu/comptag/index.html) research group at Montana State University (School of Computing & Department of Mathematical Sciences) is hiring a postdoc to start in 2022: https://montana.qualtrics.com/jfe/form/SV_03wF1MSY4Y0T2Sh
 
 ## Other
 
