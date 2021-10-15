@@ -3,10 +3,6 @@ docs:
 - title: About
   url: /
 
-- title: Announcements
-  url: /announcements.html
-
-
 - title: Call for Participation
   url: /call.html
 
@@ -16,4 +12,6 @@ docs:
 - title: Registration
   url: https://montana.qualtrics.com/jfe/form/SV_6J9j9JwMjQ9RK98
 
+- title: Announcements
+  url: /announcements.html
 
