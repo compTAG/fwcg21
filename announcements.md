@@ -11,6 +11,7 @@
 * Elsevier [Computational Geometry: Theory and Applications (CGTA)](https://www.journals.elsevier.com/computational-geometry)
 * [Springer APCT](https://www.springer.com/journal/41468)
 * TheoretiCS - another new diamond open-access journal spanning all of theoretical CS.
+* 
 
 ## Hiring
 
@@ -18,11 +19,13 @@
 
 * The Dept of CMSE at Michigan State University will likely be hiring at the Assistant Professor level this year.  More information will be posted once the position is official.  Questions in the meantime can be directed to Liz Munch <muncheli@msu.edu>.
 * Tulane University invites applications for faculty positions: The Yahoo! Founder Chair (in data science, broadly understood), assistant professor (in systems and data intensive computing), and a professor of practice. https://sse.tulane.edu/cs/open-positions
+* NC State hiring in theoretical Computer science.  Email Don Sheehy <don.r.sheehy@gmail.com>.
+* The Oregon State University Mathematics Department is hiring in applied topology or topological data analysis.
 
 ### Postdocs
 
 * [Colorado State University Department of Mathematics](https://www.mathjobs.org/jobs/list/18456)
-* Bastian Reick at HelmholtzZentrum München is hiring a postdoc, with an appoint of up to four years.  For more information, contact Bastian Rieck <bastian.rieck@helmholtz-muenchen.de>.
+* Bastian Reick at HelmholtzZentrum München is hiring a postdoc, with an appoint of up to four years.  For more information, contact Bastian Rieck <bastian.rieck@helmholtz-muenchen.de>. Remote position is an option!
 * The [CompTaG](https://www.cs.montana.edu/comptag/index.html) research group at Montana State University (School of Computing & Department of Mathematical Sciences) is hiring a postdoc to start in 2022: https://montana.qualtrics.com/jfe/form/SV_03wF1MSY4Y0T2Sh
 
 ### PhD Students Wanted
